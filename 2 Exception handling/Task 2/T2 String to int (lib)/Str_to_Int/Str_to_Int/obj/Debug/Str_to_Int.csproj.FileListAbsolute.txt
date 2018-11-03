@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2 String to int\Str_to_Int\Str_to_Int\bin\Debug\Str_to_Int.dll
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2 String to int\Str_to_Int\Str_to_Int\bin\Debug\Str_to_Int.pdb
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2 String to int\Str_to_Int\Str_to_Int\obj\Debug\Str_to_Int.csprojAssemblyReference.cache
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2 String to int\Str_to_Int\Str_to_Int\obj\Debug\Str_to_Int.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2 String to int\Str_to_Int\Str_to_Int\obj\Debug\Str_to_Int.dll
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2 String to int\Str_to_Int\Str_to_Int\obj\Debug\Str_to_Int.pdb

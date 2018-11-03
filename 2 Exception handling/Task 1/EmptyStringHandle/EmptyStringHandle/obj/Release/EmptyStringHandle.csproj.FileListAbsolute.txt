@@ -1,0 +1,6 @@
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T1. Empty string handling\EmptyStringHandle\EmptyStringHandle\bin\Release\EmptyStringHandle.exe.config
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T1. Empty string handling\EmptyStringHandle\EmptyStringHandle\bin\Release\EmptyStringHandle.exe
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T1. Empty string handling\EmptyStringHandle\EmptyStringHandle\bin\Release\EmptyStringHandle.pdb
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T1. Empty string handling\EmptyStringHandle\EmptyStringHandle\obj\Release\EmptyStringHandle.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T1. Empty string handling\EmptyStringHandle\EmptyStringHandle\obj\Release\EmptyStringHandle.exe
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T1. Empty string handling\EmptyStringHandle\EmptyStringHandle\obj\Release\EmptyStringHandle.pdb

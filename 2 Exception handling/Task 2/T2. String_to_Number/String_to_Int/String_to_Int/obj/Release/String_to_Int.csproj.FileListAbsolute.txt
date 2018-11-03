@@ -1,0 +1,10 @@
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\bin\Release\String_to_Int.exe.config
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\bin\Release\String_to_Int.exe
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\bin\Release\String_to_Int.pdb
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\bin\Release\Str_to_Int.dll
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\bin\Release\Str_to_Int.pdb
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\obj\Release\String_to_Int.csproj.CoreCompileInputs.cache
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\obj\Release\String_to_Int.csproj.CopyComplete
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\obj\Release\String_to_Int.exe
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\obj\Release\String_to_Int.pdb
+H:\Al_Sid\C# Sandbox\L1 mentoring\Tasks\2. Exception Handling\T2. String_to_Number\String_to_Int\String_to_Int\obj\Release\String_to_Int.csprojAssemblyReference.cache
