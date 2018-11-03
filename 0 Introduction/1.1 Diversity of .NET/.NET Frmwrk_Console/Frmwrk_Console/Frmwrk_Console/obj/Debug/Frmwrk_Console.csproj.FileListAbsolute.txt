@@ -1,0 +1,7 @@
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\bin\Debug\Frmwrk_Console.exe.config
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\bin\Debug\Frmwrk_Console.exe
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\bin\Debug\Frmwrk_Console.pdb
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\obj\Debug\Frmwrk_Console.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\obj\Debug\Frmwrk_Console.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\obj\Debug\Frmwrk_Console.exe
+C:\Users\Home\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\.NET Frmwrk_Console\Frmwrk_Console\Frmwrk_Console\obj\Debug\Frmwrk_Console.pdb

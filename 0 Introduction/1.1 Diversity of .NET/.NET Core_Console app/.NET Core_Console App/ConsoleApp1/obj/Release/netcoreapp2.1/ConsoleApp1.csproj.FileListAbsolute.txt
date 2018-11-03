@@ -1,0 +1,11 @@
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\bin\Release\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\bin\Release\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\bin\Release\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\bin\Release\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\bin\Release\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\obj\Release\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\obj\Release\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\obj\Release\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\obj\Release\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\obj\Release\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Aliaksandr_Sidarau\OneDrive - EPAM\.NET Mentoring tasks\1 Introduction to .NET\1.1 Diversity of .NET\Diversity of .NET\.NET Core_Console App\ConsoleApp1\obj\Release\netcoreapp2.1\ConsoleApp1.pdb
