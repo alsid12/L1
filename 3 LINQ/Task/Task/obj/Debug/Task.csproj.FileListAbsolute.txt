@@ -1,0 +1,10 @@
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\bin\Debug\Task.exe.config
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\bin\Debug\Task.exe
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\bin\Debug\Task.pdb
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\Task.Properties.Resources.resources
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\Task.exe
+H:\Repos\.NET_L1_m\3 LINQ\Task\Task\obj\Debug\Task.pdb

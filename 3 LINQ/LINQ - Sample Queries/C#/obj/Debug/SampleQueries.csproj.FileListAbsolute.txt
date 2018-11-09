@@ -1,0 +1,9 @@
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.exe
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.pdb
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csprojAssemblyReference.cache
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\QuerySamples.Properties.Resources.resources
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\SampleSupport.SampleForm.resources
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.GenerateResource.cache
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.CoreCompileInputs.cache
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.exe
+H:\Repos\.NET_L1_m\3 LINQ\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.pdb
