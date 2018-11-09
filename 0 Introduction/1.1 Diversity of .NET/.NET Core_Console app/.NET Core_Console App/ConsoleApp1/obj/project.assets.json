@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\OneDrive - EPAM\\.NET Mentoring tasks\\0 Introduction to .NET\\1.1 Diversity of .NET\\.NET Core_Console app\\.NET Core_Console App\\ConsoleApp1\\CoreConsApp.csproj",
+      "projectUniqueName": "J:\\Александр doc's\\EPAM\\Repos\\L1\\0 Introduction\\1.1 Diversity of .NET\\.NET Core_Console app\\.NET Core_Console App\\ConsoleApp1\\CoreConsApp.csproj",
       "projectName": "CoreConsApp",
-      "projectPath": "C:\\Users\\Home\\OneDrive - EPAM\\.NET Mentoring tasks\\0 Introduction to .NET\\1.1 Diversity of .NET\\.NET Core_Console app\\.NET Core_Console App\\ConsoleApp1\\CoreConsApp.csproj",
+      "projectPath": "J:\\Александр doc's\\EPAM\\Repos\\L1\\0 Introduction\\1.1 Diversity of .NET\\.NET Core_Console app\\.NET Core_Console App\\ConsoleApp1\\CoreConsApp.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\OneDrive - EPAM\\.NET Mentoring tasks\\0 Introduction to .NET\\1.1 Diversity of .NET\\.NET Core_Console app\\.NET Core_Console App\\ConsoleApp1\\obj\\",
+      "outputPath": "J:\\Александр doc's\\EPAM\\Repos\\L1\\0 Introduction\\1.1 Diversity of .NET\\.NET Core_Console app\\.NET Core_Console App\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
